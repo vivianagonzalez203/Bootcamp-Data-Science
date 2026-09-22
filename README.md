@@ -1,4 +1,4 @@
-# 🎓 Curso de Data Science
+# Curso de Data Science 📊
 
 Bienvenidos al repositorio del curso de **Data Science**.
 
